@@ -1,5 +1,8 @@
 ## Description
-**Nemo’s View** aims to stay true to the vanilla style while trying to offer subtle improvements.
+
+**Nemo’s View** is a vanilla-friendly resource pack that stays true to Minecraft’s original look and feel while carefully enhancing it. 
+Instead of overhauling everything, it focuses on subtle improvements and selective additions — new textures that blend seamlessly into the game’s style. 
+The goal is to keep the familiar atmosphere of vanilla Minecraft while offering small visual touches.
 
 ## Downloads
 - [CurseForge](https://curseforge.com/minecraft/mc-mods/nemos-view)
